@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Registration App</string>
+    <string name="name">Name:</string>
+    <string name="pass">Password:</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title">Registration Form</string>
+    <string name="desc">Welcome to Adventure Learning Club!</string>
+    <string name="fullname">Full name</string>
 </resources>
